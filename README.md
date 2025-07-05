@@ -14,9 +14,19 @@ Each section builds upon the previous one. It’s perfect for self-learners, cla
 Sample Output:
 
 Loops Section
-![Loops Output](screenshots/loops_example.png)
- Final Project
-![Random Library Output](screenshots/random_library.png)
+
+![screenshots:loops_example](https://github.com/user-attachments/assets/bf87986a-bda2-45b9-a140-a7a4984a6f74)
+
+
+
+
+
+
+Library Section
+
+![screenshots:random_library](https://github.com/user-attachments/assets/6735d800-9d24-4d25-b7f7-3e7bb4a8a398)
+
+
 
 Getting Started:
 Download or clone the repository:
