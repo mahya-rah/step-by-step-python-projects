@@ -11,7 +11,14 @@ This file contains:
 
 Each section builds upon the previous one. It’s perfect for self-learners, classroom use, or bootcamp-style instruction.
 
+Sample Output:
+
+Loops Section
+![Loops Output](screenshots/loops_example.png)
+ Final Project
+![Random Library Output](screenshots/random_library.png)
+
 Getting Started:
-1. Download or clone the repository:
+Download or clone the repository:
    ```bash
-   git clone https://github.com/your-username/beginner-projects.py
+   git clone https://github.com/mahya-rah/beginner-projects.py
