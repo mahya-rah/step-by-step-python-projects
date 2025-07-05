@@ -1,6 +1,6 @@
 Step-by-Step Python Projects for Beginners 🐍
 
-This project is a collection of step-by-step Python projects I created over 2 years while teaching teenagers how to code. It's designed to help beginners:
+This project is a collection of step-by-step Python projects I created over years while teaching teenagers how to code. It's designed to help beginners:
 - Learn Python syntax and concepts 
 - Apply knowledge through practical mini-projects 
 - Strengthen problem-solving skills 
